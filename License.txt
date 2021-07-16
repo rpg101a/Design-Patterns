@@ -1,0 +1,33 @@
+================================================
+LICENSE AND WARRANTY
+------------------------------------------------
+This statement pertains to the Design Pattern 
+Framework (the 'product').
+
+You are free to install the product on as many 
+machines as necessary (home, work, etc.) as 
+long as the number of users does not exceed the 
+license.
+
+If this is a single-user license the product can 
+only be used by a single user. If you purchased 
+a 16-user license then the product can be 
+used by up to 16 developers. Site licenses 
+are restricted to a single facility at a given 
+physical address
+
+You are free to use the source code in your own 
+business applications.  However, you are not 
+allowed to use the source code to develop 
+framework-type products and/or code-generators, 
+either commercial or open-source
+
+THIS CODE AND INFORMATION IS PROVIDED "AS IS"
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR
+FITNESS FOR A PARTICULAR PURPOSE.
+
+------------------------------------------------
+Copyright (C), Data & Object Factory, LLC
+All rights reserved. www.dofactory.com
